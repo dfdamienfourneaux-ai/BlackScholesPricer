@@ -1,5 +1,0 @@
-lib: [
-  "_build/install/default/lib/bs_pricer/META"
-  "_build/install/default/lib/bs_pricer/dune-package"
-  "_build/install/default/lib/bs_pricer/opam"
-]
