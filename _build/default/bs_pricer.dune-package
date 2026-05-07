@@ -1,0 +1,4 @@
+(lang dune 3.23)
+(name bs_pricer)
+(sections (lib .))
+(files (lib (META dune-package opam)))
